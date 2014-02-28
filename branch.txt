@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an alternate stream of the master git hub repository, that allows parallel development of the software without affecting the master branch.
