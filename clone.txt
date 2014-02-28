@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+A git clone copies the git repository from any online master repository to your local computer.
